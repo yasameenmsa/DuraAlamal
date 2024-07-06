@@ -1,0 +1,39 @@
+/* CSS HEX */
+ --loafer: #eef3e0;
+--buttered-rum: #9d910c;
+--forest-green: #18721a;
+--bay-leaf: #7db683;
+--spring-leaves: #598d5c;
+--apple: #3a9641;
+--parsley: #104a18;
+--goblin: #437e5c;
+--earls-green: #b8cd3c;
+--chateau-green: #44b44c;
+
+
+/* SCSS HEX */
+$loafer: #eef3e0;
+$buttered-rum: #9d910c;
+$forest-green: #18721a;
+$bay-leaf: #7db683;
+$spring-leaves: #598d5c;
+$apple: #3a9641;
+$parsley: #104a18;
+$goblin: #437e5c;
+$earls-green: #b8cd3c;
+$chateau-green: #44b44c;
+
+
+/* SCSS RGB */
+--loafer: rgba(238,243,224,1);
+--buttered-rum: rgba(157,145,12,1);
+--forest-green: rgba(24,114,26,1);
+--bay-leaf: rgba(125,182,131,1);
+--spring-leaves: rgba(89,141,92,1);
+--apple: rgba(58,150,65,1);
+--parsley: rgba(16,74,24,1);
+--goblin: rgba(67,126,92,1);
+--earls-green: rgba(184,205,60,1);
+--chateau-green: rgba(68,180,76,1);
+
+
